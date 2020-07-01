@@ -1,6 +1,6 @@
 # Jet2Travel Test
 
-Used technology and tool
+Technology and Tool used
 
 1. MVVM
 2. Kotlin

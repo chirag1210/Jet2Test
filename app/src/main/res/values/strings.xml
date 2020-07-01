@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MvvmKotlin</string>
+
+    <string name="title_articles">Articles</string>
+    <string name="user_profile">user_profile</string>
+    <string name="full_name">%1$s %2$s</string>
+
+    <string name="likes">%1$s Likes</string>
+    <string name="comments">%1$s Comments</string>
+</resources>

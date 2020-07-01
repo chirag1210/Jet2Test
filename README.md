@@ -6,4 +6,4 @@ Used technology and tool
 2. Kotlin
 3. Kotlin Coroutine
 4. Retrofit
-5. Paging
+5. Paging Jetpack

@@ -30,3 +30,37 @@ build.gradle
     implementation 'com.jakewharton.retrofit:retrofit2-kotlin-coroutines-adapter:0.9.2'
     implementation 'com.github.bumptech.glide:glide:4.11.0'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+
+----------------------------------------------------------------------------------------------------------
+
+Development With Kotlin
+
+https://dzone.com/articles/introduction-to-android-app-development-with-kotli-1?fromrel=true
+
+Kotlin coroutine 
+https://github.com/MindorksOpenSource/Kotlin-Coroutines-Android-Examples
+
+Dagger 2
+https://www.arthlimchiu.com/2019/08/21/basic-dagger-in-mvvm.html
+
+HiltiRepository
+https://github.com/chandragithub2014/HiltRepository_
+
+Dagger2
+https://github.com/chandragithub2014/Dagger2UsingMVVMKotlinAndroid
+
+mockito android
+https://dzone.com/articles/how-to-use-mockito-in-android
+
+Learn Jetpack
+https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example
+
+Online Json viewer
+http://jsonviewer.stack.hu/
+
+
+
+
+
+
+
